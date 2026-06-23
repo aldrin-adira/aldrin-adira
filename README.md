@@ -23,6 +23,6 @@ I am a Bachelor of Computer Science in Data Science student at Monash University
 When I'm not writing code or hitting the gym, you can find me teaching pottery classes on the weekends!
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [linkedin.com/in/aldrin-adira](#)
+- **LinkedIn:** www.linkedin.com/in/aldrin-adira
 - **Email:** aldrin.adira@gmail.com
 - **Resume:** [View my Resume](#)
