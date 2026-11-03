@@ -1,28 +1,32 @@
-# Hi there, I'm Aldrin 👋
+## Hi, I'm Aldrin
 
-### Data Science Student | Aspiring Data Professional
+I'm in my final year of Computer Science (Data Science) at Monash University Malaysia, and I'm currently doing a data analytics internship at SPX Express in Kuala Lumpur, working with delivery-operations data.
 
-I am a Bachelor of Computer Science in Data Science student at Monash University Malaysia (First Class Honours track, expected graduation July 2027). I am passionate about building data-driven solutions and bridging the gap between advanced analytics and practical software engineering. 
+What I enjoy most is the part after the model runs: working out whether a number actually means what it looks like it means. One of my favourite results so far was finding that more than a third of "late" deliveries in a dataset stopped being late once the delivery promise was realistic. The trucks weren't slower; the promise was wrong.
 
-**I am actively seeking a data science internship for the October/November 2026 – March 2027 window.**
+### Projects
 
-## 🛠️ Tech Stack & Tools
-- **Data Science & Analytics:** Python, Pandas, Scikit-learn, SQL, Jupyter
-- **Software Engineering:** JavaScript, Firebase
-- **Workflow & Version Control:** Git (Conventional Commits), Markdown
+Most of these started as university coursework. I've cleaned them up so they run without the original (non-shareable) data, and each README explains what came from me and what didn't.
 
-## 🚀 Featured Projects
-- **[Custom Learning Management System (LMS)](#):** Built a scalable, web-based LMS utilizing JavaScript and the Firebase API to manage student data, authenticate users, and streamline educational delivery.
-- **[Data Analytics/Machine Learning Project Name](#):
+| Project | What it is | Tools |
+| --- | --- | --- |
+| [logistics-delivery-analytics](https://github.com/aldrin-adira/logistics-delivery-analytics) | A Shiny dashboard asking whether late deliveries are an execution problem or a promise problem, on 180k order lines | R, Shiny, Plotly |
+| [car-rental-data-warehouse](https://github.com/aldrin-adira/car-rental-data-warehouse) | A snowflake-schema warehouse for a self-driving car fleet, plus a Power BI dashboard on where the accidents come from | Oracle SQL, Power BI |
+| [logistics-database-engineering](https://github.com/aldrin-adira/logistics-database-engineering) | An Oracle database for a trucking business, from schema and constraints to reporting queries and a MongoDB export | Oracle SQL, MongoDB |
+| [machine-learning-predictive-analytics](https://github.com/aldrin-adira/machine-learning-predictive-analytics) | Predicting student grades with SVM and Random Forest, and clustering countries by income and happiness | Python, scikit-learn |
+| [statistical-modelling-and-prediction](https://github.com/aldrin-adira/statistical-modelling-and-prediction) | Three small case studies: regression, logistic regression vs decision trees, and k-NN smoothing with bootstrap intervals | R |
 
-## 🌱 Currently Exploring
-- Advanced predictive modeling and effective business data storytelling.
-- Building robust data pipelines and bringing machine learning models into production environments.
+### What I use
 
-## ⚡ Fun Fact
-When I'm not writing code or hitting the gym, you can find me teaching pottery classes on the weekends!
+Python (pandas, scikit-learn), SQL (mostly Oracle), R and Shiny, MongoDB, Power BI, Git.
 
-## 📫 How to Reach Me
-- **LinkedIn:** www.linkedin.com/in/aldrin-adira
-- **Email:** aldrin.adira@gmail.com
-- **Resume:** [View my Resume](#)
+### Outside of data
+
+I teach pottery classes at a studio in KL, which is mostly a lesson in explaining things patiently to people who've never done it before. I also spend a fair bit of time at the gym.
+
+### Get in touch
+
+I'll be graduating in July 2027 and looking for data analyst or data engineering roles. Happy to chat any time.
+
+- LinkedIn: [linkedin.com/in/aldrin-adira](https://www.linkedin.com/in/aldrin-adira)
+- Email: aldrin.adira@gmail.com
