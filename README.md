@@ -6,15 +6,15 @@ What I enjoy most is the part after the model runs: working out whether a number
 
 ### Projects
 
-Most of these started as university coursework. I've cleaned them up so they run without the original (non-shareable) data, and each README explains what came from me and what didn't.
+These started as university coursework, so I keep the code private to avoid handing future students a set of answers. I'm happy to walk through any of them, or share access if you're hiring and want to see the code.
 
 | Project | What it is | Tools |
 | --- | --- | --- |
-| [logistics-delivery-analytics](https://github.com/aldrin-adira/logistics-delivery-analytics) | A Shiny dashboard asking whether late deliveries are an execution problem or a promise problem, on 180k order lines | R, Shiny, Plotly |
-| [car-rental-data-warehouse](https://github.com/aldrin-adira/car-rental-data-warehouse) | A snowflake-schema warehouse for a self-driving car fleet, plus a Power BI dashboard on where the accidents come from | Oracle SQL, Power BI |
-| [logistics-database-engineering](https://github.com/aldrin-adira/logistics-database-engineering) | An Oracle database for a trucking business, from schema and constraints to reporting queries and a MongoDB export | Oracle SQL, MongoDB |
-| [machine-learning-predictive-analytics](https://github.com/aldrin-adira/machine-learning-predictive-analytics) | Predicting student grades with SVM and Random Forest, and clustering countries by income and happiness | Python, scikit-learn |
-| [statistical-modelling-and-prediction](https://github.com/aldrin-adira/statistical-modelling-and-prediction) | Three small case studies: regression, logistic regression vs decision trees, and k-NN smoothing with bootstrap intervals | R |
+| Logistics delivery analytics | A Shiny dashboard asking whether late deliveries are an execution problem or a promise problem, on 180k order lines | R, Shiny, Plotly |
+| Fleet data warehouse | A snowflake-schema warehouse for a self-driving car fleet, plus a Power BI dashboard on where the accidents come from | Oracle SQL, Power BI |
+| Logistics database engineering | An Oracle database for a trucking business, from schema and constraints to reporting queries and a MongoDB export | Oracle SQL, MongoDB |
+| Grade prediction and clustering | Predicting student grades with SVM and Random Forest, and clustering countries by income and happiness | Python, scikit-learn |
+| Statistical modelling | Regression, logistic regression vs decision trees, and k-NN smoothing with bootstrap intervals | R |
 
 ### What I use
 
