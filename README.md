@@ -28,5 +28,4 @@ I teach pottery classes at a studio in KL, which is mostly a lesson in explainin
 
 I'll be graduating in July 2027 and looking for data analyst or data engineering roles. Happy to chat any time.
 
-- LinkedIn: [linkedin.com/in/aldrin-adira](https://www.linkedin.com/in/aldrin-adira)
 - Email: aldrin.adira@gmail.com
